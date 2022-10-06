@@ -1,0 +1,41 @@
+table, td, th, tr {
+    border-top: 2px solid darkslategray;
+    border-bottom: 2px solid darkslategray;
+    border-left: 2px solid darkslategray;
+    border-right: 2px solid darkslategray;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 10px;
+    background-color:darkcyan;
+    box-shadow: 15px;
+    
+    
+}
+
+th {
+    background-color:cadetblue;
+}
+
+h1, h3{
+    text-align: center;
+    color: darkslategray;
+}
+
+td, tr {
+    background-color: #89c19e;
+    
+}
+
+body {
+    background-color: lightgray;
+}
+table {
+    border-radius: 3%;
+    box-shadow: 10px 10px 10px black;
+}
+
+td:hover {
+    color: green;
+}
+
